@@ -11,14 +11,14 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
-|2,0,1725218216,,"q"
 :wq
-|2,0,1725121823,,"wq"
+|2,0,1725285518,,"wq"
+:q
+|2,0,1725285036,,"q"
 :w
-|2,0,1725121564,,"w"
+|2,0,1725225594,,"w"
 :q!
-|2,0,1725108805,,"q!"
+|2,0,1725224824,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -29,239 +29,306 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	
 	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-|3,1,0,0,2,0,1725108886,"","!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"-	CHAR	0
-	!
-|3,0,36,0,1,0,1725108864,"!"
+|3,0,0,0,2,0,1725108886,"","!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+""-	CHAR	0
+	h
+|3,1,36,0,1,0,1725285501,"h"
 
 # File marks:
-'0  9  0  ~/.git/rebase-merge/git-rebase-todo
-|4,48,9,0,1725218216,"~/.git/rebase-merge/git-rebase-todo"
-'1  1  0  ~/.git/rebase-merge/git-rebase-todo
-|4,49,1,0,1725218188,"~/.git/rebase-merge/git-rebase-todo"
-'2  1  0  ~/.git/rebase-merge/git-rebase-todo
-|4,50,1,0,1725218188,"~/.git/rebase-merge/git-rebase-todo"
-'3  1  0  /tmp/git-blob-gHNzZN/.gitconfig
-|4,51,1,0,1725149298,"/tmp/git-blob-gHNzZN/.gitconfig"
-'4  1  0  ~/.bash_profile
-|4,52,1,0,1725146843,"~/.bash_profile"
-'5  7  0  ~/Programs/helloworld.c
-|4,53,7,0,1725121823,"~/Programs/helloworld.c"
-'6  21  0  ~/Documents/notes.txt
-|4,54,21,0,1725121683,"~/Documents/notes.txt"
-'7  5  15  ~/.vimrc
-|4,55,5,15,1725121574,"~/.vimrc"
-'8  123  0  ~/.viminfo
-|4,56,123,0,1725121488,"~/.viminfo"
-'9  21  34  ~/Documents/notes.txt
-|4,57,21,34,1725121414,"~/Documents/notes.txt"
+'0  1  3  ~/gitdirty
+|4,48,1,3,1725285518,"~/gitdirty"
+'1  1  0  ~/gitdirty
+|4,49,1,0,1725285492,"~/gitdirty"
+'2  5  0  ~/gitdirty
+|4,50,5,0,1725285475,"~/gitdirty"
+'3  5  0  ~/gitdirty
+|4,51,5,0,1725285475,"~/gitdirty"
+'4  5  0  ~/gitdirty
+|4,52,5,0,1725285475,"~/gitdirty"
+'5  5  0  ~/gitdirty
+|4,53,5,0,1725285475,"~/gitdirty"
+'6  4  31  ~/gitdirty
+|4,54,4,31,1725285451,"~/gitdirty"
+'7  3  31  ~/gitdirty
+|4,55,3,31,1725285451,"~/gitdirty"
+'8  4  31  ~/gitdirty
+|4,56,4,31,1725285451,"~/gitdirty"
+'9  3  31  ~/gitdirty
+|4,57,3,31,1725285451,"~/gitdirty"
 
 # Jumplist (newest first):
--'  9  0  ~/.git/rebase-merge/git-rebase-todo
-|4,39,9,0,1725218216,"~/.git/rebase-merge/git-rebase-todo"
--'  1  0  ~/.git/rebase-merge/git-rebase-todo
-|4,39,1,0,1725218203,"~/.git/rebase-merge/git-rebase-todo"
--'  1  0  ~/.git/rebase-merge/git-rebase-todo
-|4,39,1,0,1725218188,"~/.git/rebase-merge/git-rebase-todo"
--'  1  0  /tmp/git-blob-gHNzZN/.gitconfig
-|4,39,1,0,1725149298,"/tmp/git-blob-gHNzZN/.gitconfig"
--'  1  0  /tmp/git-blob-gHNzZN/.gitconfig
-|4,39,1,0,1725149298,"/tmp/git-blob-gHNzZN/.gitconfig"
--'  1  0  /tmp/git-blob-gHNzZN/.gitconfig
-|4,39,1,0,1725149298,"/tmp/git-blob-gHNzZN/.gitconfig"
--'  1  0  /tmp/git-blob-gHNzZN/.gitconfig
-|4,39,1,0,1725149298,"/tmp/git-blob-gHNzZN/.gitconfig"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1725146843,"~/.bash_profile"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  7  0  ~/Programs/helloworld.c
-|4,39,7,0,1725121823,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  1  0  ~/Programs/helloworld.c
-|4,39,1,0,1725121746,"~/Programs/helloworld.c"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  21  0  ~/Documents/notes.txt
-|4,39,21,0,1725121683,"~/Documents/notes.txt"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
--'  5  15  ~/.vimrc
-|4,39,5,15,1725121574,"~/.vimrc"
+-'  1  3  ~/gitdirty
+|4,39,1,3,1725285518,"~/gitdirty"
+-'  1  0  ~/gitdirty
+|4,39,1,0,1725285492,"~/gitdirty"
+-'  5  0  ~/gitdirty
+|4,39,5,0,1725285485,"~/gitdirty"
+-'  5  0  ~/gitdirty
+|4,39,5,0,1725285485,"~/gitdirty"
+-'  5  0  ~/gitdirty
+|4,39,5,0,1725285475,"~/gitdirty"
+-'  4  0  ~/gitdirty
+|4,39,4,0,1725285465,"~/gitdirty"
+-'  4  0  ~/gitdirty
+|4,39,4,0,1725285465,"~/gitdirty"
+-'  4  0  ~/gitdirty
+|4,39,4,0,1725285465,"~/gitdirty"
+-'  3  31  ~/gitdirty
+|4,39,3,31,1725285451,"~/gitdirty"
+-'  3  31  ~/gitdirty
+|4,39,3,31,1725285451,"~/gitdirty"
+-'  3  31  ~/gitdirty
+|4,39,3,31,1725285451,"~/gitdirty"
+-'  3  0  ~/gitdirty
+|4,39,3,0,1725285036,"~/gitdirty"
+-'  3  28  ~/gitdirty
+|4,39,3,28,1725285006,"~/gitdirty"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  0  ~/Programs/helloworld.cpp
+|4,39,7,0,1725284716,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
+-'  7  11  ~/Programs/helloworld.cpp
+|4,39,7,11,1725284705,"~/Programs/helloworld.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitdirty
+	*	1725285517	0
+	"	1	3
+	^	1	4
+	.	5	3
+	+	1	17
+	+	3	49
+	+	4	0
+	+	1	44
+	+	4	31
+	+	1	0
+	+	4	32
+	+	5	0
+	+	1	0
+	+	2	2
+	+	1	3
+	+	5	3
+
+> ~/Programs/helloworld.cpp
+	*	1725284713	0
+	"	7	0
+	^	7	12
+	.	7	11
+	+	7	11
+
+> ~/.bashrc
+	*	1725281266	0
+	"	11	41
+	^	11	42
+	.	12	0
+	+	44	0
+	+	5	18
+	+	8	30
+	+	9	29
+	+	10	11
+	+	11	36
+	+	6	15
+	+	9	24
+	+	11	31
+	+	10	31
+	+	19	0
+	+	20	0
+	+	30	30
+	+	13	27
+	+	14	71
+	+	15	0
+	+	14	0
+	+	15	64
+	+	16	62
+	+	17	50
+	+	11	42
+	+	12	0
+
+> ~/gitdirty.sh
+	*	1725221827	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
+
+> ~/.gitignore
+	*	1725219869	0
+	"	1	0
+	^	1	13
+	.	1	0
+	+	1	0
 
 > ~/.git/rebase-merge/git-rebase-todo
 	*	1725218207	0
@@ -315,25 +382,6 @@
 > /usr/bin/kill
 	*	1725120109	0
 	"	1	0
-
-> ~/.bashrc
-	*	1725119513	0
-	"	23	30
-	^	23	31
-	.	23	30
-	+	37	0
-	+	5	18
-	+	8	30
-	+	9	29
-	+	10	11
-	+	11	36
-	+	6	15
-	+	9	24
-	+	11	31
-	+	10	31
-	+	12	0
-	+	13	0
-	+	23	30
 
 > /mnt/c/Games/.bashrc
 	*	1725111758	0
