@@ -1,0 +1,5 @@
+echo
+echo Git Branch: $(git branch --show-current) 
+echo Commit Hash: $(git rev-parse --short=7 HEAD)
+echo "$(git status --porcelain)"
+echo

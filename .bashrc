@@ -8,6 +8,13 @@ alias cantfind='find . -iname'
 alias cdrive='cd /Cdrive;ll'
 alias games='cd /Cdrive/Games;ll'
 alias home='cd /home/rlongley11;ll'
+alias gitdirty='/home/rlongley11/gitdirty'
+
+alias gba='/home/rlongley11/Games/GBA\ emulator/VisualBoyAdvance.exe'
+alias 3ds='/home/rlongley11/Games/3ds/Citra/nightly-mingw/citra-qt.exe'
+alias gcube='/home/rlongley11/Games/GAMECUBE/Dolphin/Dolphin.exe'
+alias n64='/home/rlongley11/Games/Project64\ 2.3/Project64.exe'
+alias snes='/home/rlongley11/Games/Snes/zsnesw.exe'
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
