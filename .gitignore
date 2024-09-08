@@ -7,3 +7,7 @@
 .ssh/
 .vim
 .vimrc
+.cache
+.config
+.pki
+.vscode
