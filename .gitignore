@@ -11,3 +11,4 @@
 .config
 .pki
 .vscode
+.wget-hsts
