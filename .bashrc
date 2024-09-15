@@ -3,6 +3,7 @@
 #aliases
 alias lt='ls -lrt'
 alias ll='ls -l'
+alias la='ls -la'
 alias line='grep -rin'
 alias cantfind='find . -iname'
 alias cdrive='cd /Cdrive;ll'
