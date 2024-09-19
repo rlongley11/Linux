@@ -15,6 +15,10 @@ k	up
 h	left
 l	right
 
+
+ps aux | grep /init | grep -v grep
+display all processes | only /init | remove grep process
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Git
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
