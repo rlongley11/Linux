@@ -4,6 +4,9 @@
 alias lt='ls -lrt'
 alias ll='ls -l'
 alias la='ls -la'
+alias lsd='ls -1d'
+alias hidden='ls -1d .*'
+
 alias line='grep -rin'
 alias cantfind='find . -iname'
 alias cdrive='cd /Cdrive;ll'
@@ -17,6 +20,7 @@ alias 3ds='/home/rlongley11/Games/3ds/Citra/nightly-mingw/citra-qt.exe'
 alias gcube='/home/rlongley11/Games/GAMECUBE/Dolphin/Dolphin.exe'
 alias n64='/home/rlongley11/Games/Project64\ 2.3/Project64.exe'
 alias snes='/home/rlongley11/Games/Snes/zsnesw.exe'
+alias nds='/home/rlongley11/Games/Nds/DeSmuME_0.9.13_x64.exe'
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
