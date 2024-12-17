@@ -3,8 +3,8 @@ Games to Play				Time to Beat	Status
 !!!!!!!!!!PC!!!!!!!!!!!!
 
 !!! RPG Turn Based | Puzzle
-1. BG3						70 hours		Owned
-2. XCOM 2					33 hours		On hold
+xxx1. BG3					70 hours		Owned
+xxx2. XCOM 2				33 hours		On hold
 3. Diablo IV				26 hours		Playing
 4. Tactical Breach Wizards	12 hours		Owned
 X. DragonAge Veilguard		XX hours		Not owned
@@ -15,9 +15,11 @@ y. Portal					03 hours		Owned
 z. Portal 2					09 hours		Owned
 
 !!! Action/Adventure
+1. Wokong					XX hours		Not owned
 1. Sunset Overdrive			10 hours		Owned
 2. Halo MCC					60 hours		Owned
-3. Tomb Raider				12 hours		Owned
+xxx3. Tomb Raider			12 hours		Owned
+4. Stellar Blade							Not owned
 
 !!! Online MP
 1. Battlefield 4			XX hours		Owned
@@ -29,6 +31,7 @@ z. Portal 2					09 hours		Owned
 1. College Football 25		XX hours		Owned
 2. Jedi Fallen Survivor		20 hours		Owned
 3. COD Black Ops 6			Infinite		Not Owned
+4. Assassins Creed Mirage	XX hours		Not Owned
 
 !!! RPG Turn Based
 1. Persona 3 Reload			64 hours		Owned

@@ -1,11 +1,9 @@
 Movies							Time		Status
 											
 1. Deadpool 3					02 hours	
-2. Infinity War					03 hours	
-3. Endgame						03 hours	
-4. The Batman					03 hours	In Progress
 5. Inside Out 2					03 hours	
-											
+3. Doctor Strange MOM			03 hours
+
 TV											
 											
 1. Penguin						08 hours	
@@ -14,4 +12,3 @@ TV
 4. Loki Season 2				05 hours	
 5. Game of Thrones				Lifetime	
 6. Agatha All Along				03 hours	
-7. Doctor Strange MOM			03 hours	
