@@ -1,0 +1,29 @@
+bash_original.sh
+bash.sh
+Documents
+Downloads
+Games
+gitdirty.sh
+newtab.sh
+Programs
+README.md
+replay.txt
+test2.txt
+toplay.txt
+towatch.txt
+
+contents of home
+rlongley11
+
+gitdirty
+
+Git Branch:
+Programs
+Commit Hash: 
+bd33480
+ D ../test.sh
+ D ../test2.txt
+?? ./
+?? ../cpp/first_three_multiples.cpp
+?? ../../test2.txt
+
