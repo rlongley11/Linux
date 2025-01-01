@@ -15,10 +15,10 @@ alias home='cd /home/rlongley11;ll'
 alias gitdirty='/home/rlongley11/gitdirty'
 alias vscode='code'
 
-alias gba='/home/rlongley11/Games/GBA\ emulator/VisualBoyAdvance.exe'
+alias gba='/home/rlongley11/Games/GBA_emulator/VisualBoyAdvance.exe'
 alias 3ds='/home/rlongley11/Games/3ds/Citra/nightly-mingw/citra-qt.exe'
 alias gcube='/home/rlongley11/Games/GAMECUBE/Dolphin/Dolphin.exe'
-alias n64='/home/rlongley11/Games/Project64\ 2.3/Project64.exe'
+alias n64='/home/rlongley11/Games/Project64_2.3/Project64.exe'
 alias snes='/home/rlongley11/Games/Snes/zsnesw.exe'
 alias nds='/home/rlongley11/Games/Nds/DeSmuME_0.9.13_x64.exe'
 
@@ -37,9 +37,9 @@ export PATH
 # Prompt:
 # user @ host : full_path
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u \[\033[00m\]@ \[\033[01;34m\]\h\[\033[00m\] : ${PWD} \$ '
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u \[\033[00m\]@\[\033[01;34m\]\h\[\033[00m\]: ${PWD} \$ '
 else
-    PS1='${debian_chroot:+($debian_chroot)}\u @ \h : ${PWD} \$ '
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h: ${PWD} \$ '
 fi
 
 # Set the window title to the same as prompt
