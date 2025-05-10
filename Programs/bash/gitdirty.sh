@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 echo
-echo "Git Branch:" 
-eval git branch --show-current 
-echo "Commit Hash: " 
-eval git rev-parse --short=7 HEAD
+branch=$(eval git branch --show-current) 
+echo "Git Branch: $branch" 
+commit=$(eval git rev-parse --short=7 HEAD)
+echo "Commit Hash: $commit" 
 eval git status -s
 echo
